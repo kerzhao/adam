@@ -1,0 +1,3 @@
+echo Start redis...
+redis-server redis.conf
+echo redis started!
